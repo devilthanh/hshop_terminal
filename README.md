@@ -1,12 +1,12 @@
 # hshop_terminal
 
-For Windows:
-    + Install JRE 1.8.0 or above.
-    + Add hshop_terminal.xml to C:\Users\$UserName\.
-    + Launch app via Hshop Terminal.exe.
-    
-For Linux:
-    + Install JRE 1.8.0 or above
-    + Add hshop_terminal.xml to C:\Users\$UserName\.
-    + Launch app via cmd: "java -jar Hshop Terminal.jar" or create a launcher with that cmd.
+<br>For Windows:</br>
+    <br>    + Install JRE 1.8.0 or above.</br>
+    <br>    + Add hshop_terminal.xml to C:\Users\$UserName\.</br>
+    <br>    + Launch app via Hshop Terminal.exe.</br>
+<br></br>    
+<br>For Linux:</br>
+    <br>+ Install JRE 1.8.0 or above</br>
+    <br>+ Add hshop_terminal.xml to C:\Users\$UserName\.</br>
+    <br>+ Launch app via cmd: "java -jar Hshop Terminal.jar" or create a launcher with that cmd.</br>
    
